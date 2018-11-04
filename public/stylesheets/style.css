@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+*{
+  font: consolas;
+  color: tomato;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 40px;
+}
+
+a {
+  color: #00B7FF;
+}
